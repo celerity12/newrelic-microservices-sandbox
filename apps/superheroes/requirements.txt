@@ -43,6 +43,6 @@ tomli==2.0.1
 typed-ast==1.5.2
 typing-extensions==4.1.1
 urllib3==1.25.11
-Werkzeug==2.0.3
+Werkzeug==2.2.3
 wrapt==1.13.3
 zipp==3.7.0
