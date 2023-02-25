@@ -18,6 +18,6 @@ require (
 	github.com/swaggo/swag v1.8.0
 	github.com/toorop/gin-logrus v0.0.0-20210225092905-2c785434f26f
 	golang.org/x/net v0.0.0-20220325170049-de3da57026de // indirect
-	golang.org/x/sys v0.0.0-20220325203850-36772127a21f // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/tools v0.1.10 // indirect
 )
